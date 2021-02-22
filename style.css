@@ -1,0 +1,99 @@
+#header {
+    size: 100%;
+    background-color: #3853D8;
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.carousel-container{
+    size: 100%;
+    background-color: #3853D8;
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    height: auto; 
+}
+    
+#bepro {
+    color: white;
+    margin-left: 1cm;
+    margin-top: 1cm;
+    max-width: 100%;
+    height: auto;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-style: italic;
+}
+    
+#home, #shop {
+    justify-content: left;
+    margin-top: 1cm;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+      
+#panier {
+    color: white;
+    margin-top: 1cm;
+    margin-left: auto;
+    margin-right: 1cm;
+}
+    
+#carousel {
+    background-image: url(médias/header1v2.png);
+    background-size: cover;
+}
+   
+#buynow {
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#girl1, #girl2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;  
+}
+
+.top-60 {
+    top: 60%!important;
+}
+
+.display-2{
+    color:white;
+    font-family: 'Playfair Display', serif;
+}
+
+#footer{
+    background-image: url(médias/footerfond.png);
+}
+
+#home1, #catalog, #men, #clothing{
+    color:white;
+}
+
+.nav{
+    justify-content: center;
+    background-size: 100%;
+    max-width: 100%;
+}
+
+.h6{
+    font-family: 'Montserrat', serif; 
+}
+
+.h4{
+    font-family: 'Playfair Display', serif;
+}
+
+.h5{
+    font-family: 'Playfair Display', serif; 
+}
+
+a {
+    color: black;
+}
